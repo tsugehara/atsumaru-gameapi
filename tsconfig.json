@@ -3,7 +3,7 @@
     "target": "ES5",
     "lib": ["es6"],
     "noImplicitAny": true,
-    "module": "commonjs" ,
+    "declaration": true,
     "outDir": "./build"
   },
   "include": [
