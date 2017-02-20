@@ -1,6 +1,6 @@
 {
   "name": "atsumaru-gameapi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "atsumaru gameapi",
   "main": "build/index",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "tsugehara",
   "license": "MIT",
   "files": [
-    "lib"
+    "build"
   ],
   "devDependencies": {
     "typescript": "^2.1.5"
