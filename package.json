@@ -1,6 +1,6 @@
 {
   "name": "atsumaru-gameapi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "atsumaru gameapi",
   "main": "build/index",
   "scripts": {
@@ -11,6 +11,7 @@
   "files": [
     "build"
   ],
+  "typings": "build/index.d.ts",
   "devDependencies": {
     "typescript": "^2.1.5"
   }
